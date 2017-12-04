@@ -1,3 +1,13 @@
+#Comments from me:
+This project is a fun music visualizer built to run on a massive 21x7 foot screen at North Carolina State University's Hunt Library.
+
+It was built by myself and a friend for the library's first annual "Code+Art" competition over the course of a semester in 2014/2015. We had the idea to make a visualizer for the college radio station we worked for, WKNC, in order to promote the station to students. It also provides a fun visual toy for the library's massive displays that are integrated into its architecture. The project is still in rotation today at the library's theater.
+
+Participants in the Code+Art competition in following years utilized this open source project to learn more about p5.js and to help with their own projects.
+
+The project is hard coded for a certain resolution, but can be viewed by visiting http://pugstreetsoftware.com/harrison/projects/wkncviz/ , zooming out in the web browser, and refreshing the page.
+
+#ORIGINAL README
 Code-Art-WKNC
 =============
 This work of generative art, completed as part of the NCSU Libraries Code+Art Student Visualization Contest, visualizes the live Internet stream of 88.1 WKNC, the student-run noncommercial radio station of NC State University. Boasting 25,000 watts, WKNC can be heard throughout the Triangle and far beyond via their webcast.
